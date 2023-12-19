@@ -1,4 +1,7 @@
 {
   "Язык": "English",
-  "Ничего не найдено": "Nothing found"
+  "Ничего не найдено": "Nothing found",
+  "Произошла ошибка": "Something error",
+  "Обновить страницу": "Refresh",
+  "Выбросить ошибку": "throw error"
 }
